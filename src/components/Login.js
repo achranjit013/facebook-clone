@@ -55,7 +55,7 @@ export const Login = () => {
       </div>
       <div className="row login-footer">
         <p className="d-flex align-items-end pb-3 login-footer-text">
-          &copy; All rights reserved!
+          &copy; All rights reserved! kk
         </p>
       </div>
     </div>
